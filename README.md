@@ -1,1 +1,1 @@
-# Treatment Effectivness
+This report determined which drug most effectively treats cancer. Matplotlib was used to illustrate the studies strict adherence to high quality standards across treatments and to understand the variance within each treatment. These visualizations, used in conjunction with box and whisker plots,  created inferential statistics to determine which treatment shrinks cancerous tumors the most. 
